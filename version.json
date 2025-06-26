@@ -1,4 +1,4 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.2",
   "firmware": "https://manojv9140.github.io/esp32-ota-server/firmware.bin"
 }
